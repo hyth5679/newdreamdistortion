@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Red Hat Display";
-    src: url('fonts/RedHatDisplay.woff2') format('truetype') format('woff2');
+    src: url('fonts/RedHatDisplay.woff2') format('woff2') local('Red Hat Display');
     font-display: swap;
 }
 body {
@@ -29,4 +29,3 @@ body {
     margin: 0 auto;
     text-align: center;
 }
-
