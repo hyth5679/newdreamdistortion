@@ -1,0 +1,29 @@
+body {
+    background-color: #ffffff;
+    margin: 0;
+    font-family: "Red Hat Display";
+}
+.fonttext {
+    font-family: "RedHatDisplay-VariableFont_wght";
+}
+.site {
+    max-width: 900px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    min-height: 100vh;
+    position: relative;
+}
+.right-text {
+    margin-left: auto;
+    position: absolute;
+    right: 4px;
+    top: 52px;
+    font-size: 16px;
+}
+.img1{
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
