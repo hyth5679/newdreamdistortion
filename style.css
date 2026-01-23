@@ -1,3 +1,7 @@
+@font-face {
+    font-family: 'Red Hat Display';
+    src: url('fonts/RedHatDisplay.ttf') format('truetype');
+}
 body {
     background-color: #ffffff;
     margin: 0;
